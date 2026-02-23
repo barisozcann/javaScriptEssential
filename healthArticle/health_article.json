@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "title": "Stay Hydrated",
+      "description": "Drinking enough water supports overall health and energy levels.",
+      "ways_to_achieve": [
+        "Carry a water bottle",
+        "Set reminders to drink water",
+        "Drink a glass before each meal"
+      ],
+      "benefits": [
+        "Improved focus",
+        "Better digestion",
+        "Healthier skin"
+      ]
+    },
+    {
+      "title": "Regular Exercise",
+      "description": "Physical activity strengthens your body and improves mental well-being.",
+      "ways_to_achieve": [
+        "Walk 30 minutes daily",
+        "Try bodyweight workouts",
+        "Join a sport or group class"
+      ],
+      "benefits": [
+        "Stronger heart",
+        "Better mood",
+        "Improved sleep"
+      ]
+    }
+  ]
+}
